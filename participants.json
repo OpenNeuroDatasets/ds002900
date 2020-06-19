@@ -14,5 +14,17 @@
     "date_of_scan": {
         "LongName": "Date of scan",
         "Description": "yyyy-mm-dd"
+    },
+    "institution_id": {
+        "LongName": "institution_id",
+        "Description": "InstitutionId"
+    },
+    "manufacturer": {
+        "LongName": "ManufacturerName",
+        "Description": "ManufacturerName"
+    },
+    "manufacturers_model_name": {
+        "LongName": "ManufacturersModelName",
+        "Description": "ManufacturersModelName"
     }
 }
