@@ -1,3 +1,6 @@
+1.0.4 2020-06-27
+  - CHANGES: Fixed formatting
+  - 
 1.0.3 2020-06-27
   - Updated participants.tsv: Added date_of_scan and fixed manufacturers_model_name for sub-unf
 
